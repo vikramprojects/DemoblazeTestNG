@@ -1,0 +1,9 @@
+<suite name="Demoblaze" parallel="tests">
+	<test name="TestNG" allow-return-values="true">
+		<classes>
+			<class name="testlayer.TestDB" />
+		</classes>
+	</test>
+	
+</suite>
+		
